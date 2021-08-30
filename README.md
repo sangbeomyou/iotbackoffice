@@ -6,7 +6,7 @@
 
 <h2>What I did?</h2>
  1. 프로시저 구현 <br> 
- 2. 2. UI 일부 디자인  <br> 
+ 2. UI 일부 디자인  <br> 
  3. 가입관리(stats_use), pv(stats_pv) 페이지 개발 <br>
  4. php 엑셀 업로드 구현 <br> 
  5. 5. Chart.js를 이용한 통계 차트 일부 구현.<br>

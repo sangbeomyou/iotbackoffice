@@ -13,11 +13,11 @@
  
  
  <br><br><h2>메인화면</h2><br><br>
- <img width="80%" src="https://user-images.githubusercontent.com/48462737/131360274-1c111d9d-864c-48ed-a2e4-7feee8b723f8.png"/>
- <img width="80%" src="https://user-images.githubusercontent.com/48462737/131360284-9220790e-71c2-41ba-b379-9e41e083707c.png"/>
+ <img width="100%" src="https://user-images.githubusercontent.com/48462737/131360274-1c111d9d-864c-48ed-a2e4-7feee8b723f8.png"/>
+ <img width="100%" src="https://user-images.githubusercontent.com/48462737/131360284-9220790e-71c2-41ba-b379-9e41e083707c.png"/>
  
  <br><br><h2>기간별 통계</h2><br><br>
- <img width="80%" src="https://user-images.githubusercontent.com/48462737/131360292-57220ae5-92d0-4486-bbdc-442947735fc4.png"/>
+ <img width="100%" src="https://user-images.githubusercontent.com/48462737/131360292-57220ae5-92d0-4486-bbdc-442947735fc4.png"/>
  
  <br><br><h2>매장관리</h2><br><br>
- <img width="80%" src="https://user-images.githubusercontent.com/48462737/131360301-dcee3f54-3484-4d7e-a028-ea09b715db61.png"/>
+ <img width="100%" src="https://user-images.githubusercontent.com/48462737/131360301-dcee3f54-3484-4d7e-a028-ea09b715db61.png"/>
